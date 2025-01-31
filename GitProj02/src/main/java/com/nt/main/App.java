@@ -11,6 +11,6 @@ public class App
     public static void main(String[] args) 
     {
     	App app=new App();
-        System.out.println("sum is::"+app.sum(10, 20));
+        System.out.println("sum1 is::"+app.sum(10, 20));
     }
 }
